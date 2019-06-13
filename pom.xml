@@ -11,6 +11,8 @@
   <modules>
     <module>model</module>
     <module>validator</module>
+    <module>converters</module>
+    <module>exception</module>
   </modules>
 
   <name>CarManagementSystem1</name>

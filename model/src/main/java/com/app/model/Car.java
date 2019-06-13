@@ -1,8 +1,8 @@
-package model;
+package com.app.model;
 
 
 
-import model.enums.Color;
+import com.app.model.enums.Color;
 
 import java.math.BigDecimal;
 import java.util.Objects;

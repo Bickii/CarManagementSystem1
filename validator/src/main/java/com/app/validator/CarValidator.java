@@ -1,8 +1,8 @@
-package validator;
+package com.app.validator;
 
 
 
-import model.Car;
+import com.app.model.Car;
 
 import java.math.BigDecimal;
 import java.util.HashMap;
@@ -19,7 +19,7 @@ public class CarValidator {
         }
 
         if (!isModelValid(car)) {
-            errors.put("model", "car model is not valid");
+            errors.put("com/app/model", "car model is not valid");
         }
 
         if (!areComponentsValid(car)) {
