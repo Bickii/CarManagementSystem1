@@ -13,6 +13,8 @@
     <module>validator</module>
     <module>converters</module>
     <module>exception</module>
+      <module>service</module>
+    <module>menu</module>
   </modules>
 
   <name>CarManagementSystem1</name>
