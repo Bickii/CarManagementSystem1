@@ -6,7 +6,7 @@ are stored in JSON file.
 
 ## Description
 
-To run the application we need a few steps. 
+In order to run the application, we need to perform the following steps:
 
 1. We need to open a terminal of the main pom.xml file for the whole project 
 and use the command "mvn clean install".
