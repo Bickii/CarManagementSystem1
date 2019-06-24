@@ -12,7 +12,7 @@ To run the application we need a few steps.
 and use the command "mvn clean install".
 2. Now we open the terminal of the menu module pom.xml file and use command "mvn clean compile assembly:single".
 3. After that we need to open target terminal and use command "java --enable-preview -cp menu-1.0-SNAPSHOT-jar-with-dependencies.jar com.app.menu.App"
-4. Program will ask us to give the path of JSON file path on ur computer to turn on the application.
+4. Program will ask us to give the path of JSON file on ur computer to turn on the application.
 
 ## Stack
 
