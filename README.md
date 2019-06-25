@@ -16,4 +16,9 @@ and use the command "mvn clean install".
 
 ## Stack
 
-Maven , Java 12 , Junit 4.12, Lombok 1.18.8, Gson 2.8.5, Eclipse-collections 9.2.0 .
+- Maven
+- Java 12
+- Junit 4.12
+- Lombok 1.18.8
+- Gson 2.8.5
+- Eclipse-collections 9.2.0
